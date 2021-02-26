@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Squat
+2. Bench press
+3. Dumbbell
+  
